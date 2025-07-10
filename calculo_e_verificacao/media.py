@@ -38,3 +38,4 @@ def procurar_matricula_e_calcular_media():
             
             print(f"Média do aluno: {media}")
             break
+    print("---------------------------------------")

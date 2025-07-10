@@ -42,3 +42,4 @@ def relatorio():
             print(f"Aluno aprovado na disciplina de {values[0]} com média igual a {values[1]}")
         else:
             print(f"Aluno reprovado na disciplina de {values[0]} com média igual a {values[1]}")
+    print("---------------------------------------")

@@ -19,7 +19,7 @@ def verificar_matricula(matricula):
 
 
 def cadastro_de_notas():
-    print("Cadastro de nota")
+    print("---------- Cadastro de Notas ----------")
     
     
     while True:
@@ -45,3 +45,4 @@ def cadastro_de_notas():
                 print("A matrícula não existe. Por favor, digite novamente.")
     
     print("Notas cadastradas com sucesso.")
+    print("---------------------------------------")

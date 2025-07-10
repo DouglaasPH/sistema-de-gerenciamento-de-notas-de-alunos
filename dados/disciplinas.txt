@@ -1,4 +1,5 @@
+adm
 ads
-matemática
-geografia
-biologia
+ads
+matematica
+quimica

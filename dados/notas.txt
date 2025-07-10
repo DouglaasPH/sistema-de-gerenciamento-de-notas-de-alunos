@@ -1,5 +1,5 @@
-ads 1022 10 11 7 5
-Matemática 1103 8 9 3 4
-ads 1103 6 6 6 6
-biologia 2604 9 9 9 9
-ads 2604 6 6 6 6
+adm 2711 8 9 10 8
+ads 2711 6 1 2 3
+ads 1205 9 8 7 8
+matematica 1205 2 3 5 4
+quimica 120349 1 7 10 9
